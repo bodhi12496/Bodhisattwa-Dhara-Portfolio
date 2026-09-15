@@ -19,7 +19,7 @@ The mathematical surface and project charts are explicitly illustrative. No clie
 - `dist/script.js`: interactive mathematical surface, mobile navigation, reading progress and email copying.
 - `dist/assets/`: original portrait, supplied résumé, locally served DM Sans and DM Mono fonts, favicon.
 
-Replace `dist/assets/Bodhisattwa-Dhara-Resume.pdf` when updating the CV. JavaScript syntax can be checked with `node --check dist/script.js`.
+Replace `dist/assets/Bodhisattwa_Dhara_Resume_2026.pdf` when updating the CV. JavaScript syntax can be checked with `node --check dist/script.js`.
 
 The model supports drag, arrow keys, pause/play, and reset. It stops when offscreen or in a hidden tab and respects reduced-motion preferences. Core content and native details work without JavaScript.
 
